@@ -1,0 +1,15 @@
+- 👋 Hi, I’m André Lima, 40.
+- 👀 I’m interested about software development.
+- 🌱 I’m currently learning python, javascript, html and css... surrounding mysql, lua and julia too.
+- I have to consider that a great portion of my time I'm collecting data from the financial market (USD) to create an App with my own collected data.
+- 💞️ I’m looking to collaborate on github with simple projects until complex ones at each step that develop my own knowledge. 
+- 📫 How to reach me linkedin.com/in/andrélima-brézil, also calc_2005@yahoo.com.br or calcruz.2005@gmail.com.
+- That's it. Let's get start...
+- --------------------------------
+- 👋 Oi, Eu sou André Lima, 40 anos.
+- 👀 Estou interessado em desenvolvimento de software.
+- 🌱 Atualmente estou stuadndo python, javascript, html e css... circundando estudar mysql, lua e julia também.
+- Vale mencionar que eu passo boa parte do tempo coletando dados do mercado financeiro (USD) para criar meu próprio aplicativo de investimentos.
+- 💞️ Estou interessado em colaborar no github desde projetos simples até os mais complexos a cada passo em que eu desenvolver meu conhecimento. 
+- 📫 Onde me encontar: linkedin.com/in/andrélima-brézil, calc_2005@yahoo.com.br ou calcruz.2005@gmail.com.
+- That's it. Let's get start...
