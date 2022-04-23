@@ -11,5 +11,5 @@
 - 🌱 Atualmente estou stuadndo python, javascript, html e css... circundando estudar mysql, lua e julia também.
 - Vale mencionar que eu passo boa parte do tempo coletando dados do mercado financeiro (USD) para criar meu próprio aplicativo de investimentos.
 - 💞️ Estou interessado em colaborar no github desde projetos simples até os mais complexos a cada passo em que eu desenvolver meu conhecimento. 
-- 📫 Onde me encontar: linkedin.com/in/andrélima-brézil, calc_2005@yahoo.com.br ou calcruz.2005@gmail.com.
+- 📫 Onde me encontar: https://linkedin.com/in/andrélima-brézil, calc_2005@yahoo.com.br ou calcruz.2005@gmail.com.
 - That's it. Let's get start it...
